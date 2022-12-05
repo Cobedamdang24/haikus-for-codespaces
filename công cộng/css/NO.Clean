@@ -4,27 +4,27 @@ body {
     flex-direction: column;
     justify-content: center; 
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-    font-weight: 300;
+    font-weight: 250;
     color: #fff;
-    text-align:center;
+    text-align:Centon;
 }
 
 .mona-images {
-    max-width: 400px;
+    max-width: 120px;
     max-height: 400px;
     border: 8px solid #fff;
 }
 
 .haiku-containers {
-    padding: 10px 0px 20px 0px;
+    padding: 5px 0px 1px 2px;
 }
 
 .haikus {
-    font-size: 18px;
+    font-size: 2px;
     white-space: pre-wrap;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 300px) {
     .june-images {
         max-width: 340px;
         max-height: 340px;
